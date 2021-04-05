@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\Projects\web\branches\web-2-from-archetype\.metadata\.plugins\org.eclipse.jdt.core
+2226465096.index
